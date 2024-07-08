@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi there!👋 This is Zhirui(Raymond).
+- 🔭 I’m currently a senior student of NPU, majoring in Automation.
+- 🌱 I’m interested in 3D vision & Generative AI research in my upcoming postgraudate study.
+- 🏀 I'm a huge fan of basketball and LeBron James.
+- 🥰 Looking for amazing aquaintance with you!
+# Welcome to my GitHub profile! Below are some of my projects:
+- [ovsplat](https://github.com/Zhirui86/OVSplat)
+- [splatam-ROS](https://github.com/Zhirui86/Splatam-ROS)
+
+Feel free to contact me if you're interested in any of my work!
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Zhirui86.Zhirui86)
+
+
+
 
 <!--
 **Zhirui86/zhirui86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
