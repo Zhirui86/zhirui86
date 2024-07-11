@@ -8,7 +8,7 @@
 
 ![my motto](motto.png)
 
-## ✨Repos✨:
+## ✨Repos✨
 - [OVSplat](https://github.com/Zhirui86/OVSplat)
 - [Splatam-ROS](https://github.com/Zhirui86/Splatam-ROS)
 
@@ -19,7 +19,7 @@ Feel free to contact me if you're interested in any of my work!
     </div>
     <div style="width: 49%;">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=zhirui86&show_icons=true&count_private=true" alt="zhirui86's GitHub stats" style="width: 49%; height: 60%;">
+            <img src="https://github-readme-stats.vercel.app/api?username=zhirui86&show_icons=true&count_private=true" alt="zhirui86's GitHub stats" style="width: 49%; height: 100%;">
         </a>
     </div>
 </div>
