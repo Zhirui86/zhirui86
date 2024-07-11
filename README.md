@@ -3,10 +3,12 @@
 - 🌱 I’m interested in 3D vision & Generative AI research in my upcoming postgraudate study.
 - 🏀 I'm a huge fan of basketball and LeBron James.
 - 🥰 Looking for amazing aquaintance with you!
-<p style="font-family: 'Brush Script MT', cursive; font-size: 1.5em;">
-Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.
-                                        --Kung Fu Panda,2006
-</p>
+
+<blockquote style="font-family: 'Brush Script MT', cursive; font-size: 1.5em;">
+    Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.<br>
+    -- Kung Fu Panda, 2006
+</blockquote>
+
 ## Below are some of my repos:
 - [OVSplat](https://github.com/Zhirui86/OVSplat)
 - [Splatam-ROS](https://github.com/Zhirui86/Splatam-ROS)
