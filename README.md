@@ -4,10 +4,7 @@
 - 🏀 I'm a huge fan of basketball and LeBron James.
 - 🥰 Looking for amazing aquaintance with you!
 
-<blockquote style="font-family: 'Brush Script MT', cursive; font-size: 1.5em;">
-    Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.<br>
-    -- Kung Fu Panda, 2006
-</blockquote>
+![my motto](motto.png)
 
 ## Below are some of my repos:
 - [OVSplat](https://github.com/Zhirui86/OVSplat)
