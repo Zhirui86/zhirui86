@@ -8,14 +8,18 @@
 
 ![my motto](motto.png)
 
-## Below are some of my repos:
+## ✨repos✨:
 - [OVSplat](https://github.com/Zhirui86/OVSplat)
 - [Splatam-ROS](https://github.com/Zhirui86/Splatam-ROS)
 
 Feel free to contact me if you're interested in any of my work!
 
-## Language Stat
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhirui86&size_weight=0.5&count_weight=0.5)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhirui86&size_weight=0.5&count_weight=0.5" alt="Top Langs" style="width: 48%;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=zhirui86&show_icons=true&theme=holi" alt="Anurag's GitHub stats" style="width: 48%;">
+    </a>
+</div>
 
 <!--
 **Zhirui86/zhirui86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
