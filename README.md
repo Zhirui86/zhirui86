@@ -15,11 +15,11 @@
 Feel free to contact me if you're interested in any of my work!
 <div style="display: flex; justify-content: space-between;">
     <div style="width: 49%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhirui86&layout=compact" alt="Top Langs" style="width: 100%; height: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhirui86&layout=compact" alt="Top Langs" style="width: 49%; height: 60%;">
     </div>
     <div style="width: 49%;">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=zhirui86&show_icons=true&count_private=true" alt="zhirui86's GitHub stats" style="width: 100%; height: 100%;">
+            <img src="https://github-readme-stats.vercel.app/api?username=zhirui86&show_icons=true&count_private=true" alt="zhirui86's GitHub stats" style="width: 49%; height: 60%;">
         </a>
     </div>
 </div>
