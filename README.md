@@ -2,7 +2,7 @@
 
 ## Hi there!👋 This is Zhirui(Raymond).
 - 🔭 I’m currently a senior student of NPU, majoring in Automation.
-- 🌱 I’m interested in Embodied AI & Generative AI research in my upcoming postgraudate study.
+- 🌱 I’m interested in Robot Learning & Generative AI research in my upcoming postgraudate study.
 - 🏀 I'm a huge fan of basketball and 👑LeBron James.
 - 🥰 Looking for amazing aquaintance with you!
 
