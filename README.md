@@ -9,8 +9,9 @@
 ![my motto](motto.png)
 
 ## ✨Repos✨
-- [OVSplat](https://github.com/Zhirui86/OVSplat)
 - [Splatam-ROS](https://github.com/Zhirui86/Splatam-ROS)
+- [OVSplat](https://github.com/Zhirui86/OVSplat)
+
 
 Feel free to contact me if you're interested in any of my work!
 <div style="display: flex; justify-content: space-between;">
