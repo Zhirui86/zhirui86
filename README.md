@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZhirui86%2Fzhirui86&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=pass+by&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## Hi there!👋 This is Zhirui(Raymond).
-- 🔭 I’m currently a senior student of NPU(西北工业大学）.I will be at SKD(上海科技大学) for postgraduate study in Sep 2025.
+- 🔭 I’m currently a senior student of NPU(西北工业大学).I will be at SKD(上海科技大学) for postgraduate study in Sep 2025.
 - 🌱 I’m interested in Robot Learning & Generative AI in my upcoming research career.
 - 🏀 I'm a huge fan of basketball and 👑LeBron James.I also fascinate doing fitness training at lesuire.
 - 🙌🏻 ***Looking for any potential academic cooperation!***
