@@ -8,6 +8,13 @@
 
 ![my motto](motto.png)
 
+## My Skill Set
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
+
 ## ✨Repos✨
 - [Splatam-ROS](https://github.com/Zhirui86/Splatam-ROS)
 - [OVSplat](https://github.com/Zhirui86/OVSplat)
