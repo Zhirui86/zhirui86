@@ -14,23 +14,9 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
-
-## ✨Repos✨
-- [Splatam-ROS](https://github.com/Zhirui86/Splatam-ROS)
-- [OVSplat](https://github.com/Zhirui86/OVSplat)
-
-
 Feel free to contact me if you're interested in any of my work!
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 49%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhirui86&layout=compact" alt="Top Langs" style="width: 49%; height: 60%;">
-    </div>
-    <div style="width: 49%;">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=zhirui86&show_icons=true&count_private=true" alt="zhirui86's GitHub stats" style="width: 49%; height: 100%;">
-        </a>
-    </div>
-</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhirui86)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&ambient_gradientl)
 
 <!--
 **Zhirui86/zhirui86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
