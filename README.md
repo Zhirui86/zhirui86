@@ -3,11 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I'm%20zhirui😚&section=header&reversal=false&textBg=false&descAlign=50&descAlignY=50&animation=fadeIn)
 
 # 😸Into
-👉 Human & Humanoid-centered learning(motion generation,interaction,etc.) 
+👉 Human & Humanoid-centered learning(motion generation, physics-based character control, interaction, etc.) 
 
 👉 I like **Basketball, Fitness & Travel** despite DDL approaching. 
 
-👉 I'm interested in any vision&robotics-related topics and open to potential cooperation!!  
+👉 I'm interested in embodied && MLLM-related topics and open to any cooperative opportunity!!  
     
 # ⚒️Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
