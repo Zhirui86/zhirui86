@@ -16,5 +16,5 @@
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhirui&show_icons=true&theme=blue_navy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhirui86&show_icons=true&theme=blue_navy)
 
