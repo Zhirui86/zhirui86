@@ -14,8 +14,8 @@
     "overall": [],
     "recent": [],
     "recent_days": 7,
-    "recent_start": "2026-04-23",
-    "recent_end": "2026-04-29"
+    "recent_start": "2026-04-24",
+    "recent_end": "2026-04-30"
   },
   "token_stats": {
     "total_tokens": 0,
@@ -2287,5 +2287,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-04-29T15:14:12.353812+00:00"
+  "generated_at": "2026-04-30T09:00:01.242213+00:00"
 }
