@@ -24,20 +24,20 @@
 
 <sub>Yearly heatmap & tool usage (auto-published)</sub>
 
-![AI coding activity heatmap](./assets/vibe-heatmap.svg?v=20260430125027)
+![AI coding activity heatmap](./assets/vibe-heatmap.svg?v=20260430132041)
 
 <p align="center">
-  <img src="./assets/vibe-tools.svg?v=20260430125027" alt="Vibe Tool Mix" width="49%">
-  <img src="./assets/vibe-tools-recent.svg?v=20260430125027" alt="Last 7 Days" width="49%">
+  <img src="./assets/vibe-tools.svg?v=20260430132041" alt="Vibe Tool Mix" width="49%">
+  <img src="./assets/vibe-tools-recent.svg?v=20260430132041" alt="Last 7 Days" width="49%">
 </p>
 
 <p align="center">
-  <img src="./assets/vibe-tokens.svg?v=20260430125027" alt="Token Economy" width="49%">
-  <img src="./assets/vibe-scorecard.svg?v=20260430125027" alt="Vibe Scorecard" width="49%">
+  <img src="./assets/vibe-tokens.svg?v=20260430132041" alt="Token Economy" width="49%">
+  <img src="./assets/vibe-scorecard.svg?v=20260430132041" alt="Vibe Scorecard" width="49%">
 </p>
 
-<img src="./assets/vibe-badges.svg?v=20260430125027" alt="Coding Achievements" width="58%">
+<img src="./assets/vibe-badges.svg?v=20260430132041" alt="Coding Achievements" width="58%">
 
-<sub>Auto-published · Last refreshed: 2026-04-30 12:50 UTC</sub>
+<sub>Auto-published · Last refreshed: 2026-04-30 13:20 UTC</sub>
 
 <!-- vibe-heatmap:end -->
