@@ -3,11 +3,11 @@
   "year": 2026,
   "intensity_mode": "sessions",
   "summary": {
-    "active_minutes": 80,
+    "active_minutes": 83,
     "active_days": 5,
-    "sessions": 81,
-    "events": 1413,
-    "avg_minutes_per_active_day": 16.06,
+    "sessions": 84,
+    "events": 1505,
+    "avg_minutes_per_active_day": 16.58,
     "max_day_minutes": 26.52
   },
   "tool_stats": {
@@ -16,9 +16,9 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 80.31,
-        "sessions": 81,
-        "events": 1413,
+        "active_minutes": 82.91,
+        "sessions": 84,
+        "events": 1505,
         "percent": 100.0,
         "sparkline": [
           0,
@@ -38,7 +38,7 @@
           9,
           0,
           1211,
-          155,
+          247,
           0,
           0,
           0,
@@ -82,9 +82,9 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 32.48,
-        "sessions": 75,
-        "events": 1366,
+        "active_minutes": 35.08,
+        "sessions": 78,
+        "events": 1458,
         "percent": 100.0,
         "sparkline": [
           0,
@@ -93,7 +93,7 @@
           0,
           0,
           1211,
-          155
+          247
         ]
       }
     ],
@@ -115,7 +115,7 @@
     "longest_session_hours": 0.0,
     "peak_hour": 12,
     "personality": "Vibe Explorer",
-    "vibe_power": 283
+    "vibe_power": 293
   },
   "badges": [
     {
@@ -896,9 +896,9 @@
     },
     {
       "date": "2026-04-30",
-      "active_minutes": 5.96,
-      "events": 155,
-      "sessions": 9
+      "active_minutes": 8.56,
+      "events": 247,
+      "sessions": 12
     },
     {
       "date": "2026-05-01",
@@ -2371,5 +2371,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-04-30T12:17:08.924167+00:00"
+  "generated_at": "2026-04-30T12:19:45.406625+00:00"
 }
