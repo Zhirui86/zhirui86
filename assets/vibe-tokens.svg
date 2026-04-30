@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300" role="img" aria-label="Token Economy (2026)">
+  <defs>
+    <clipPath id="vibe-token-bar">
+      <rect x="32" y="58" width="496" height="10" rx="8" ry="8" />
+    </clipPath>
+  </defs>
+  <rect x="1" y="1" width="558" height="298" fill="#0d1117" stroke="#24493e" stroke-width="2" rx="8" />
+  <text x="32" y="34" fill="#5eead4" font-size="20" font-weight="700" font-family="system-ui, sans-serif">Token Economy (2026)</text>
+  <text x="32" y="50" fill="#8b949e" font-size="10" font-family="system-ui, sans-serif">0 tokens consumed across 0 models</text>
+  <rect x="32" y="58" width="496" height="10" fill="#30363d" rx="8" ry="8" />
+  
+  <rect x="32" y="88" width="496" height="104" rx="8" fill="#161b22" /><text x="280" y="126" fill="#e6edf3" font-size="18" font-weight="700" font-family="system-ui, sans-serif" text-anchor="middle">No token data yet</text><text x="280" y="154" fill="#8b949e" font-size="12" font-family="system-ui, sans-serif" text-anchor="middle">Codex/Copilot session logs do not expose token usage here.</text>
+  <text x="32" y="230" fill="#8b949e" font-size="11" font-family="system-ui, sans-serif">Total: 0 tokens</text>
+</svg>
