@@ -22,18 +22,18 @@
 
 <sub>Yearly heatmap & tool usage (auto-published)</sub>
 
-![AI coding activity heatmap](./assets/vibe-heatmap.svg?v=20260430134247)
+![AI coding activity heatmap](./assets/vibe-heatmap.svg?v=20260501090001)
 
 <p align="center">
-  <img src="./assets/vibe-tools.svg?v=20260430134247" alt="Vibe Tool Mix" width="49%">
-  <img src="./assets/vibe-tools-recent.svg?v=20260430134247" alt="Last 7 Days" width="49%">
+  <img src="./assets/vibe-tools.svg?v=20260501090001" alt="Vibe Tool Mix" width="49%">
+  <img src="./assets/vibe-tools-recent.svg?v=20260501090001" alt="Last 7 Days" width="49%">
 </p>
 
 <p align="center">
-  <img src="./assets/vibe-tokens.svg?v=20260430134247" alt="Token Economy" width="49%">
-  <img src="./assets/vibe-scorecard.svg?v=20260430134247" alt="Vibe Scorecard" width="49%">
+  <img src="./assets/vibe-tokens.svg?v=20260501090001" alt="Token Economy" width="49%">
+  <img src="./assets/vibe-scorecard.svg?v=20260501090001" alt="Vibe Scorecard" width="49%">
 </p>
 
-<sub>Auto-published · Last refreshed: 2026-04-30 13:42 UTC</sub>
+<sub>Auto-published · Last refreshed: 2026-05-01 09:00 UTC</sub>
 
 <!-- vibe-heatmap:end -->
