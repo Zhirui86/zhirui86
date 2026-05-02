@@ -210,17 +210,17 @@
         "source": "copilot",
         "label": "GitHub Copilot",
         "color": "#10b981",
-        "active_minutes": 179.48,
-        "sessions": 1185,
-        "events": 1185,
-        "percent": 57.67,
+        "active_minutes": 130.55,
+        "sessions": 993,
+        "events": 993,
+        "percent": 49.77,
         "sparkline": [
-          192,
           0,
           0,
           274,
           679,
           40,
+          0,
           0
         ]
       },
@@ -231,15 +231,15 @@
         "active_minutes": 126.54,
         "sessions": 208,
         "events": 4083,
-        "percent": 40.66,
+        "percent": 48.24,
         "sparkline": [
-          0,
           0,
           0,
           0,
           1211,
           1901,
-          971
+          971,
+          0
         ]
       },
       {
@@ -249,21 +249,21 @@
         "active_minutes": 5.2,
         "sessions": 1,
         "events": 9,
-        "percent": 1.67,
+        "percent": 1.98,
         "sparkline": [
           0,
           0,
           0,
           0,
-          0,
           9,
+          0,
           0
         ]
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-04-25",
-    "recent_end": "2026-05-01"
+    "recent_start": "2026-04-26",
+    "recent_end": "2026-05-02"
   },
   "token_stats": {
     "total_tokens": 77684814,
@@ -2535,5 +2535,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-05-01T09:00:01.450490+00:00"
+  "generated_at": "2026-05-02T09:00:01.612856+00:00"
 }
