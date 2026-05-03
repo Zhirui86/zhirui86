@@ -3,11 +3,11 @@
   "year": 2026,
   "intensity_mode": "sessions",
   "summary": {
-    "active_minutes": 1085,
-    "active_days": 14,
-    "sessions": 4277,
-    "events": 8201,
-    "avg_minutes_per_active_day": 77.48,
+    "active_minutes": 1089,
+    "active_days": 15,
+    "sessions": 4278,
+    "events": 8207,
+    "avg_minutes_per_active_day": 72.59,
     "max_day_minutes": 216.22
   },
   "tool_stats": {
@@ -19,7 +19,7 @@
         "active_minutes": 908.95,
         "sessions": 4062,
         "events": 4062,
-        "percent": 83.5,
+        "percent": 83.19,
         "sparkline": [
           0,
           0,
@@ -83,7 +83,7 @@
         "active_minutes": 174.37,
         "sessions": 214,
         "events": 4130,
-        "percent": 16.02,
+        "percent": 15.96,
         "sparkline": [
           0,
           0,
@@ -144,10 +144,10 @@
         "source": "claude",
         "label": "Claude",
         "color": "#d97757",
-        "active_minutes": 5.2,
-        "sessions": 1,
-        "events": 9,
-        "percent": 0.48,
+        "active_minutes": 9.31,
+        "sessions": 2,
+        "events": 15,
+        "percent": 0.85,
         "sparkline": [
           0,
           0,
@@ -166,7 +166,7 @@
           0,
           0,
           0,
-          9,
+          15,
           0,
           0,
           0,
@@ -213,13 +213,13 @@
         "active_minutes": 130.55,
         "sessions": 993,
         "events": 993,
-        "percent": 49.77,
+        "percent": 49.01,
         "sparkline": [
-          0,
           0,
           274,
           679,
           40,
+          0,
           0,
           0
         ]
@@ -231,14 +231,14 @@
         "active_minutes": 126.54,
         "sessions": 208,
         "events": 4083,
-        "percent": 48.24,
+        "percent": 47.5,
         "sparkline": [
-          0,
           0,
           0,
           1211,
           1901,
           971,
+          0,
           0
         ]
       },
@@ -246,24 +246,24 @@
         "source": "claude",
         "label": "Claude",
         "color": "#d97757",
-        "active_minutes": 5.2,
-        "sessions": 1,
-        "events": 9,
-        "percent": 1.98,
+        "active_minutes": 9.31,
+        "sessions": 2,
+        "events": 15,
+        "percent": 3.49,
         "sparkline": [
-          0,
           0,
           0,
           0,
           9,
           0,
-          0
+          0,
+          6
         ]
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-04-26",
-    "recent_end": "2026-05-02"
+    "recent_start": "2026-04-27",
+    "recent_end": "2026-05-03"
   },
   "token_stats": {
     "total_tokens": 77684814,
@@ -273,13 +273,13 @@
     "cache_hit_pct": 48.57
   },
   "vibe_scorecard": {
-    "total_messages": 185,
+    "total_messages": 187,
     "total_tool_calls": 434,
     "longest_streak": 5,
     "longest_session_hours": 0.0,
     "peak_hour": 12,
     "personality": "Vibe Explorer",
-    "vibe_power": 21377
+    "vibe_power": 21382
   },
   "badges": [
     {
@@ -1078,9 +1078,9 @@
     },
     {
       "date": "2026-05-03",
-      "active_minutes": 0.0,
-      "events": 0,
-      "sessions": 0
+      "active_minutes": 4.1,
+      "events": 6,
+      "sessions": 1
     },
     {
       "date": "2026-05-04",
@@ -2535,5 +2535,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-05-02T09:00:01.612856+00:00"
+  "generated_at": "2026-05-03T09:00:02.290408+00:00"
 }
