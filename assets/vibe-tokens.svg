@@ -6,9 +6,9 @@
   </defs>
   <rect x="1" y="1" width="558" height="298" fill="#0d1117" stroke="#24493e" stroke-width="2" rx="8" />
   <text x="32" y="34" fill="#5eead4" font-size="20" font-weight="700" font-family="system-ui, sans-serif">Token Economy (2026)</text>
-  <text x="32" y="50" fill="#8b949e" font-size="10" font-family="system-ui, sans-serif">77.7M tokens consumed across 2 models</text>
+  <text x="32" y="50" fill="#8b949e" font-size="10" font-family="system-ui, sans-serif">89.5M tokens consumed across 2 models</text>
   <rect x="32" y="58" width="496" height="10" fill="#30363d" rx="8" ry="8" />
-  <rect x="32.00" y="58" width="496.00" height="10" fill="#d97757" clip-path="url(#vibe-token-bar)" />
-  <circle cx="42" cy="96" r="5" fill="#d97757" /><text x="56" y="100" fill="#9aa7b6" font-size="13" font-family="system-ui, sans-serif">Codex — 40.0M (100.0%)</text><circle cx="42" cy="124" r="5" fill="#0d9488" /><text x="56" y="128" fill="#9aa7b6" font-size="13" font-family="system-ui, sans-serif">Claude Opus 4 7 — 171 (0.0%)</text>
-  <text x="32" y="172" fill="#8b949e" font-size="11" font-family="system-ui, sans-serif">Total: 40.0M tokens · Input: 39.9M · Output: 113.8K · Cache hit: 49%</text>
+  <rect x="32.00" y="58" width="492.53" height="10" fill="#d97757" clip-path="url(#vibe-token-bar)" /><rect x="524.53" y="58" width="3.47" height="10" fill="#0d9488" clip-path="url(#vibe-token-bar)" />
+  <circle cx="42" cy="96" r="5" fill="#d97757" /><text x="56" y="100" fill="#9aa7b6" font-size="13" font-family="system-ui, sans-serif">Codex — 41.0M (99.3%)</text><circle cx="42" cy="124" r="5" fill="#0d9488" /><text x="56" y="128" fill="#9aa7b6" font-size="13" font-family="system-ui, sans-serif">Claude Opus 4 7 — 297.8K (0.7%)</text>
+  <text x="32" y="172" fill="#8b949e" font-size="11" font-family="system-ui, sans-serif">Total: 41.3M tokens · Input: 40.9M · Output: 393.3K · Cache hit: 53%</text>
 </svg>
