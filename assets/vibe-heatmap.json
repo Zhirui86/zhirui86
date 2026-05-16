@@ -3,11 +3,11 @@
   "year": 2026,
   "intensity_mode": "sessions",
   "summary": {
-    "active_minutes": 1599,
-    "active_days": 22,
-    "sessions": 4736,
-    "events": 10440,
-    "avg_minutes_per_active_day": 72.7,
+    "active_minutes": 1758,
+    "active_days": 23,
+    "sessions": 5867,
+    "events": 11571,
+    "avg_minutes_per_active_day": 76.42,
     "max_day_minutes": 216.22
   },
   "tool_stats": {
@@ -16,10 +16,10 @@
         "source": "copilot",
         "label": "GitHub Copilot",
         "color": "#10b981",
-        "active_minutes": 985.66,
-        "sessions": 4461,
-        "events": 4461,
-        "percent": 60.65,
+        "active_minutes": 1143.89,
+        "sessions": 5592,
+        "events": 5592,
+        "percent": 64.14,
         "sparkline": [
           0,
           0,
@@ -40,7 +40,7 @@
           1862,
           40,
           223,
-          176,
+          1307,
           0,
           0,
           0,
@@ -83,7 +83,7 @@
         "active_minutes": 343.81,
         "sessions": 250,
         "events": 5329,
-        "percent": 21.16,
+        "percent": 19.28,
         "sparkline": [
           0,
           0,
@@ -147,7 +147,7 @@
         "active_minutes": 295.61,
         "sessions": 25,
         "events": 650,
-        "percent": 18.19,
+        "percent": 16.58,
         "sparkline": [
           0,
           0,
@@ -207,20 +207,38 @@
     ],
     "recent": [
       {
+        "source": "copilot",
+        "label": "GitHub Copilot",
+        "color": "#10b981",
+        "active_minutes": 234.94,
+        "sessions": 1530,
+        "events": 1530,
+        "percent": 40.27,
+        "sparkline": [
+          0,
+          223,
+          0,
+          0,
+          0,
+          967,
+          340
+        ]
+      },
+      {
         "source": "claude",
         "label": "Claude",
         "color": "#d97757",
-        "active_minutes": 269.52,
-        "sessions": 22,
-        "events": 499,
-        "percent": 57.31,
+        "active_minutes": 224.47,
+        "sessions": 16,
+        "events": 352,
+        "percent": 38.47,
         "sparkline": [
-          147,
           0,
           223,
           38,
           44,
           47,
+          0,
           0
         ]
       },
@@ -231,39 +249,21 @@
         "active_minutes": 124.05,
         "sessions": 22,
         "events": 1007,
-        "percent": 26.38,
+        "percent": 21.26,
         "sparkline": [
-          0,
           0,
           252,
           91,
           342,
           92,
-          230
-        ]
-      },
-      {
-        "source": "copilot",
-        "label": "GitHub Copilot",
-        "color": "#10b981",
-        "active_minutes": 76.71,
-        "sessions": 399,
-        "events": 399,
-        "percent": 16.31,
-        "sparkline": [
-          0,
-          0,
-          223,
-          0,
-          0,
-          0,
-          176
+          230,
+          0
         ]
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-05-09",
-    "recent_end": "2026-05-15"
+    "recent_start": "2026-05-10",
+    "recent_end": "2026-05-16"
   },
   "token_stats": {
     "total_tokens": 97649629,
@@ -275,11 +275,11 @@
   "vibe_scorecard": {
     "total_messages": 738,
     "total_tool_calls": 746,
-    "longest_streak": 5,
+    "longest_streak": 6,
     "longest_session_hours": 0.0,
     "peak_hour": 12,
     "personality": "Vibe Explorer",
-    "vibe_power": 25219
+    "vibe_power": 28691
   },
   "badges": [
     {
@@ -1150,15 +1150,15 @@
     },
     {
       "date": "2026-05-15",
-      "active_minutes": 88.73,
-      "events": 406,
-      "sessions": 180
+      "active_minutes": 195.43,
+      "events": 1197,
+      "sessions": 971
     },
     {
       "date": "2026-05-16",
-      "active_minutes": 0.0,
-      "events": 0,
-      "sessions": 0
+      "active_minutes": 51.53,
+      "events": 340,
+      "sessions": 340
     },
     {
       "date": "2026-05-17",
@@ -2535,5 +2535,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-05-15T09:00:01.141591+00:00"
+  "generated_at": "2026-05-16T09:00:00.522128+00:00"
 }
