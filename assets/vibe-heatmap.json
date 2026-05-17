@@ -3,11 +3,11 @@
   "year": 2026,
   "intensity_mode": "sessions",
   "summary": {
-    "active_minutes": 1758,
+    "active_minutes": 1766,
     "active_days": 23,
-    "sessions": 5867,
-    "events": 11571,
-    "avg_minutes_per_active_day": 76.42,
+    "sessions": 5915,
+    "events": 11619,
+    "avg_minutes_per_active_day": 76.78,
     "max_day_minutes": 216.22
   },
   "tool_stats": {
@@ -16,10 +16,10 @@
         "source": "copilot",
         "label": "GitHub Copilot",
         "color": "#10b981",
-        "active_minutes": 1143.89,
-        "sessions": 5592,
-        "events": 5592,
-        "percent": 64.14,
+        "active_minutes": 1152.22,
+        "sessions": 5640,
+        "events": 5640,
+        "percent": 64.31,
         "sparkline": [
           0,
           0,
@@ -40,7 +40,7 @@
           1862,
           40,
           223,
-          1307,
+          1355,
           0,
           0,
           0,
@@ -83,7 +83,7 @@
         "active_minutes": 343.81,
         "sessions": 250,
         "events": 5329,
-        "percent": 19.28,
+        "percent": 19.19,
         "sparkline": [
           0,
           0,
@@ -147,7 +147,7 @@
         "active_minutes": 295.61,
         "sessions": 25,
         "events": 650,
-        "percent": 16.58,
+        "percent": 16.5,
         "sparkline": [
           0,
           0,
@@ -210,18 +210,18 @@
         "source": "copilot",
         "label": "GitHub Copilot",
         "color": "#10b981",
-        "active_minutes": 234.94,
-        "sessions": 1530,
-        "events": 1530,
-        "percent": 40.27,
+        "active_minutes": 243.27,
+        "sessions": 1578,
+        "events": 1578,
+        "percent": 41.11,
         "sparkline": [
-          0,
           223,
           0,
           0,
           0,
           967,
-          340
+          388,
+          0
         ]
       },
       {
@@ -231,13 +231,13 @@
         "active_minutes": 224.47,
         "sessions": 16,
         "events": 352,
-        "percent": 38.47,
+        "percent": 37.93,
         "sparkline": [
-          0,
           223,
           38,
           44,
           47,
+          0,
           0,
           0
         ]
@@ -249,21 +249,21 @@
         "active_minutes": 124.05,
         "sessions": 22,
         "events": 1007,
-        "percent": 21.26,
+        "percent": 20.96,
         "sparkline": [
-          0,
           252,
           91,
           342,
           92,
           230,
+          0,
           0
         ]
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-05-10",
-    "recent_end": "2026-05-16"
+    "recent_start": "2026-05-11",
+    "recent_end": "2026-05-17"
   },
   "token_stats": {
     "total_tokens": 97649629,
@@ -279,7 +279,7 @@
     "longest_session_hours": 0.0,
     "peak_hour": 12,
     "personality": "Vibe Explorer",
-    "vibe_power": 28691
+    "vibe_power": 28839
   },
   "badges": [
     {
@@ -1156,9 +1156,9 @@
     },
     {
       "date": "2026-05-16",
-      "active_minutes": 51.53,
-      "events": 340,
-      "sessions": 340
+      "active_minutes": 59.86,
+      "events": 388,
+      "sessions": 388
     },
     {
       "date": "2026-05-17",
@@ -2535,5 +2535,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-05-16T09:00:00.522128+00:00"
+  "generated_at": "2026-05-17T09:00:00.640251+00:00"
 }
