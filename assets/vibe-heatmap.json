@@ -3,11 +3,11 @@
   "year": 2026,
   "intensity_mode": "sessions",
   "summary": {
-    "active_minutes": 1766,
-    "active_days": 23,
-    "sessions": 5915,
-    "events": 11619,
-    "avg_minutes_per_active_day": 76.78,
+    "active_minutes": 1939,
+    "active_days": 25,
+    "sessions": 6751,
+    "events": 12488,
+    "avg_minutes_per_active_day": 77.57,
     "max_day_minutes": 216.22
   },
   "tool_stats": {
@@ -16,10 +16,10 @@
         "source": "copilot",
         "label": "GitHub Copilot",
         "color": "#10b981",
-        "active_minutes": 1152.22,
-        "sessions": 5640,
-        "events": 5640,
-        "percent": 64.31,
+        "active_minutes": 1303.94,
+        "sessions": 6473,
+        "events": 6473,
+        "percent": 66.01,
         "sparkline": [
           0,
           0,
@@ -40,7 +40,7 @@
           1862,
           40,
           223,
-          1355,
+          2188,
           0,
           0,
           0,
@@ -83,7 +83,7 @@
         "active_minutes": 343.81,
         "sessions": 250,
         "events": 5329,
-        "percent": 19.19,
+        "percent": 17.4,
         "sparkline": [
           0,
           0,
@@ -144,10 +144,10 @@
         "source": "claude",
         "label": "Claude",
         "color": "#d97757",
-        "active_minutes": 295.61,
-        "sessions": 25,
-        "events": 650,
-        "percent": 16.5,
+        "active_minutes": 327.76,
+        "sessions": 28,
+        "events": 686,
+        "percent": 16.59,
         "sparkline": [
           0,
           0,
@@ -168,7 +168,7 @@
           0,
           15,
           588,
-          47,
+          83,
           0,
           0,
           0,
@@ -210,76 +210,76 @@
         "source": "copilot",
         "label": "GitHub Copilot",
         "color": "#10b981",
-        "active_minutes": 243.27,
-        "sessions": 1578,
-        "events": 1578,
-        "percent": 41.11,
+        "active_minutes": 365.67,
+        "sessions": 2188,
+        "events": 2188,
+        "percent": 61.81,
         "sparkline": [
-          223,
           0,
           0,
           0,
           967,
-          388,
-          0
+          390,
+          22,
+          809
         ]
       },
       {
         "source": "claude",
         "label": "Claude",
         "color": "#d97757",
-        "active_minutes": 224.47,
-        "sessions": 16,
-        "events": 352,
-        "percent": 37.93,
+        "active_minutes": 134.26,
+        "sessions": 12,
+        "events": 165,
+        "percent": 22.69,
         "sparkline": [
-          223,
           38,
           44,
           47,
           0,
           0,
-          0
+          25,
+          11
         ]
       },
       {
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 124.05,
-        "sessions": 22,
-        "events": 1007,
-        "percent": 20.96,
+        "active_minutes": 91.68,
+        "sessions": 14,
+        "events": 755,
+        "percent": 15.5,
         "sparkline": [
-          252,
           91,
           342,
           92,
           230,
+          0,
           0,
           0
         ]
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-05-11",
-    "recent_end": "2026-05-17"
+    "recent_start": "2026-05-12",
+    "recent_end": "2026-05-18"
   },
   "token_stats": {
-    "total_tokens": 97649629,
-    "total_billed": 44242790,
-    "total_input": 43646866,
-    "total_output": 595924,
-    "cache_hit_pct": 52.97
+    "total_tokens": 98249869,
+    "total_billed": 44278218,
+    "total_input": 43646950,
+    "total_output": 631268,
+    "cache_hit_pct": 53.05
   },
   "vibe_scorecard": {
-    "total_messages": 738,
+    "total_messages": 759,
     "total_tool_calls": 746,
-    "longest_streak": 6,
+    "longest_streak": 8,
     "longest_session_hours": 0.0,
     "peak_hour": 12,
     "personality": "Vibe Explorer",
-    "vibe_power": 28839
+    "vibe_power": 31496
   },
   "badges": [
     {
@@ -295,7 +295,7 @@
     {
       "id": "streak_7",
       "name": "Week Warrior",
-      "earned": false
+      "earned": true
     },
     {
       "id": "streak_14",
@@ -1156,21 +1156,21 @@
     },
     {
       "date": "2026-05-16",
-      "active_minutes": 59.86,
-      "events": 388,
-      "sessions": 388
+      "active_minutes": 60.13,
+      "events": 390,
+      "sessions": 390
     },
     {
       "date": "2026-05-17",
-      "active_minutes": 0.0,
-      "events": 0,
-      "sessions": 0
+      "active_minutes": 25.79,
+      "events": 47,
+      "sessions": 24
     },
     {
       "date": "2026-05-18",
-      "active_minutes": 0.0,
-      "events": 0,
-      "sessions": 0
+      "active_minutes": 147.39,
+      "events": 820,
+      "sessions": 810
     },
     {
       "date": "2026-05-19",
@@ -2535,5 +2535,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-05-17T09:00:00.640251+00:00"
+  "generated_at": "2026-05-18T09:00:00.715087+00:00"
 }
