@@ -3,79 +3,15 @@
   "year": 2026,
   "intensity_mode": "sessions",
   "summary": {
-    "active_minutes": 2091,
-    "active_days": 26,
-    "sessions": 7204,
-    "events": 13210,
-    "avg_minutes_per_active_day": 80.4,
-    "max_day_minutes": 230.65
+    "active_minutes": 738,
+    "active_days": 18,
+    "sessions": 286,
+    "events": 6503,
+    "avg_minutes_per_active_day": 40.98,
+    "max_day_minutes": 143.55
   },
   "tool_stats": {
     "overall": [
-      {
-        "source": "copilot",
-        "label": "GitHub Copilot",
-        "color": "#10b981",
-        "active_minutes": 1383.77,
-        "sessions": 6920,
-        "events": 6920,
-        "percent": 65.07,
-        "sparkline": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          933,
-          1227,
-          1862,
-          40,
-          223,
-          2635,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      },
       {
         "source": "claude",
         "label": "Claude",
@@ -83,7 +19,7 @@
         "active_minutes": 393.73,
         "sessions": 32,
         "events": 891,
-        "percent": 18.51,
+        "percent": 52.04,
         "sparkline": [
           0,
           0,
@@ -144,10 +80,10 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 349.19,
-        "sessions": 252,
-        "events": 5399,
-        "percent": 16.42,
+        "active_minutes": 362.89,
+        "sessions": 254,
+        "events": 5612,
+        "percent": 47.96,
         "sparkline": [
           0,
           0,
@@ -168,7 +104,7 @@
           1211,
           2872,
           877,
-          392,
+          605,
           0,
           0,
           0,
@@ -207,31 +143,13 @@
     ],
     "recent": [
       {
-        "source": "copilot",
-        "label": "GitHub Copilot",
-        "color": "#10b981",
-        "active_minutes": 445.5,
-        "sessions": 2635,
-        "events": 2635,
-        "percent": 69.08,
-        "sparkline": [
-          0,
-          967,
-          390,
-          22,
-          1187,
-          69,
-          0
-        ]
-      },
-      {
         "source": "claude",
         "label": "Claude",
         "color": "#d97757",
         "active_minutes": 137.93,
         "sessions": 12,
         "events": 288,
-        "percent": 21.39,
+        "percent": 64.73,
         "sparkline": [
           47,
           0,
@@ -246,10 +164,10 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 61.45,
-        "sessions": 10,
-        "events": 392,
-        "percent": 9.53,
+        "active_minutes": 75.16,
+        "sessions": 12,
+        "events": 605,
+        "percent": 35.27,
         "sparkline": [
           92,
           230,
@@ -257,7 +175,7 @@
           0,
           0,
           70,
-          0
+          213
         ]
       }
     ],
@@ -266,20 +184,20 @@
     "recent_end": "2026-05-20"
   },
   "token_stats": {
-    "total_tokens": 104329879,
-    "total_billed": 44609856,
-    "total_input": 43891650,
-    "total_output": 718206,
-    "cache_hit_pct": 55.22
+    "total_tokens": 107475379,
+    "total_billed": 46266332,
+    "total_input": 45534352,
+    "total_output": 731980,
+    "cache_hit_pct": 55.0
   },
   "vibe_scorecard": {
-    "total_messages": 928,
-    "total_tool_calls": 819,
-    "longest_streak": 9,
+    "total_messages": 930,
+    "total_tool_calls": 870,
+    "longest_streak": 5,
     "longest_session_hours": 0.0,
     "peak_hour": 12,
     "personality": "Vibe Explorer",
-    "vibe_power": 33592
+    "vibe_power": 12502
   },
   "badges": [
     {
@@ -295,7 +213,7 @@
     {
       "id": "streak_7",
       "name": "Week Warrior",
-      "earned": true
+      "earned": false
     },
     {
       "id": "streak_14",
@@ -330,12 +248,12 @@
     {
       "id": "sessions_500",
       "name": "500 Sessions",
-      "earned": true
+      "earned": false
     },
     {
       "id": "multi_tool",
       "name": "Multi-Tool",
-      "earned": true
+      "earned": false
     },
     {
       "id": "night_owl",
@@ -964,15 +882,15 @@
     },
     {
       "date": "2026-04-14",
-      "active_minutes": 181.69,
-      "events": 681,
-      "sessions": 674
+      "active_minutes": 4.25,
+      "events": 9,
+      "sessions": 2
     },
     {
       "date": "2026-04-15",
-      "active_minutes": 75.81,
-      "events": 261,
-      "sessions": 261
+      "active_minutes": 0.0,
+      "events": 0,
+      "sessions": 0
     },
     {
       "date": "2026-04-16",
@@ -994,9 +912,9 @@
     },
     {
       "date": "2026-04-19",
-      "active_minutes": 121.87,
-      "events": 813,
-      "sessions": 813
+      "active_minutes": 0.0,
+      "events": 0,
+      "sessions": 0
     },
     {
       "date": "2026-04-20",
@@ -1006,33 +924,33 @@
     },
     {
       "date": "2026-04-21",
-      "active_minutes": 45.33,
-      "events": 141,
-      "sessions": 141
+      "active_minutes": 0.0,
+      "events": 0,
+      "sessions": 0
     },
     {
       "date": "2026-04-22",
-      "active_minutes": 65.47,
-      "events": 273,
-      "sessions": 273
+      "active_minutes": 0.0,
+      "events": 0,
+      "sessions": 0
     },
     {
       "date": "2026-04-23",
-      "active_minutes": 216.22,
-      "events": 636,
-      "sessions": 636
+      "active_minutes": 0.0,
+      "events": 0,
+      "sessions": 0
     },
     {
       "date": "2026-04-24",
-      "active_minutes": 27.34,
-      "events": 81,
-      "sessions": 81
+      "active_minutes": 0.0,
+      "events": 0,
+      "sessions": 0
     },
     {
       "date": "2026-04-25",
-      "active_minutes": 48.93,
-      "events": 192,
-      "sessions": 192
+      "active_minutes": 0.0,
+      "events": 0,
+      "sessions": 0
     },
     {
       "date": "2026-04-26",
@@ -1048,21 +966,21 @@
     },
     {
       "date": "2026-04-28",
-      "active_minutes": 38.07,
-      "events": 274,
-      "sessions": 274
+      "active_minutes": 0.0,
+      "events": 0,
+      "sessions": 0
     },
     {
       "date": "2026-04-29",
-      "active_minutes": 112.17,
-      "events": 1890,
-      "sessions": 745
+      "active_minutes": 26.52,
+      "events": 1211,
+      "sessions": 66
     },
     {
       "date": "2026-04-30",
-      "active_minutes": 79.62,
-      "events": 1950,
-      "sessions": 123
+      "active_minutes": 72.8,
+      "events": 1910,
+      "sessions": 83
     },
     {
       "date": "2026-05-01",
@@ -1126,9 +1044,9 @@
     },
     {
       "date": "2026-05-11",
-      "active_minutes": 166.08,
-      "events": 698,
-      "sessions": 238
+      "active_minutes": 143.55,
+      "events": 475,
+      "sessions": 15
     },
     {
       "date": "2026-05-12",
@@ -1150,39 +1068,39 @@
     },
     {
       "date": "2026-05-15",
-      "active_minutes": 195.43,
-      "events": 1197,
-      "sessions": 971
+      "active_minutes": 41.34,
+      "events": 230,
+      "sessions": 4
     },
     {
       "date": "2026-05-16",
-      "active_minutes": 60.13,
-      "events": 390,
-      "sessions": 390
-    },
-    {
-      "date": "2026-05-17",
-      "active_minutes": 25.79,
-      "events": 47,
-      "sessions": 24
-    },
-    {
-      "date": "2026-05-18",
-      "active_minutes": 230.65,
-      "events": 1243,
-      "sessions": 1191
-    },
-    {
-      "date": "2026-05-19",
-      "active_minutes": 67.91,
-      "events": 299,
-      "sessions": 72
-    },
-    {
-      "date": "2026-05-20",
       "active_minutes": 0.0,
       "events": 0,
       "sessions": 0
+    },
+    {
+      "date": "2026-05-17",
+      "active_minutes": 21.15,
+      "events": 25,
+      "sessions": 2
+    },
+    {
+      "date": "2026-05-18",
+      "active_minutes": 20.98,
+      "events": 56,
+      "sessions": 4
+    },
+    {
+      "date": "2026-05-19",
+      "active_minutes": 61.38,
+      "events": 230,
+      "sessions": 3
+    },
+    {
+      "date": "2026-05-20",
+      "active_minutes": 13.71,
+      "events": 213,
+      "sessions": 2
     },
     {
       "date": "2026-05-21",
@@ -2535,5 +2453,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-05-20T09:00:01.501368+00:00"
+  "generated_at": "2026-05-20T12:56:23.329230+00:00"
 }
