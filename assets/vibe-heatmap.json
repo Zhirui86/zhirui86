@@ -3,11 +3,11 @@
   "year": 2026,
   "intensity_mode": "sessions",
   "summary": {
-    "active_minutes": 2165,
-    "active_days": 29,
-    "sessions": 7214,
-    "events": 14312,
-    "avg_minutes_per_active_day": 74.64,
+    "active_minutes": 2240,
+    "active_days": 30,
+    "sessions": 7221,
+    "events": 15271,
+    "avg_minutes_per_active_day": 74.67,
     "max_day_minutes": 230.65
   },
   "tool_stats": {
@@ -19,7 +19,7 @@
         "active_minutes": 1383.77,
         "sessions": 6920,
         "events": 6920,
-        "percent": 62.88,
+        "percent": 60.79,
         "sparkline": [
           0,
           0,
@@ -80,10 +80,10 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 423.23,
-        "sessions": 262,
-        "events": 6501,
-        "percent": 19.23,
+        "active_minutes": 498.91,
+        "sessions": 269,
+        "events": 7460,
+        "percent": 21.92,
         "sparkline": [
           0,
           0,
@@ -105,7 +105,7 @@
           2872,
           877,
           676,
-          818,
+          1777,
           0,
           0,
           0,
@@ -147,7 +147,7 @@
         "active_minutes": 393.73,
         "sessions": 32,
         "events": 891,
-        "percent": 17.89,
+        "percent": 17.3,
         "sparkline": [
           0,
           0,
@@ -210,33 +210,15 @@
         "source": "copilot",
         "label": "GitHub Copilot",
         "color": "#10b981",
-        "active_minutes": 291.4,
-        "sessions": 1668,
-        "events": 1668,
-        "percent": 62.14,
+        "active_minutes": 231.27,
+        "sessions": 1278,
+        "events": 1278,
+        "percent": 47.73,
         "sparkline": [
-          390,
           22,
           1187,
           69,
           0,
-          0,
-          0
-        ]
-      },
-      {
-        "source": "claude",
-        "label": "Claude",
-        "color": "#d97757",
-        "active_minutes": 98.12,
-        "sessions": 7,
-        "events": 241,
-        "percent": 20.92,
-        "sparkline": [
-          0,
-          25,
-          56,
-          160,
           0,
           0,
           0
@@ -246,40 +228,58 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 79.42,
-        "sessions": 12,
-        "events": 1172,
-        "percent": 16.94,
+        "active_minutes": 155.11,
+        "sessions": 19,
+        "events": 2131,
+        "percent": 32.01,
         "sparkline": [
-          0,
           0,
           0,
           70,
           284,
           277,
-          541
+          1104,
+          396
+        ]
+      },
+      {
+        "source": "claude",
+        "label": "Claude",
+        "color": "#d97757",
+        "active_minutes": 98.12,
+        "sessions": 7,
+        "events": 241,
+        "percent": 20.25,
+        "sparkline": [
+          25,
+          56,
+          160,
+          0,
+          0,
+          0,
+          0
         ]
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-05-16",
-    "recent_end": "2026-05-22"
+    "recent_start": "2026-05-17",
+    "recent_end": "2026-05-23"
   },
   "token_stats": {
-    "total_tokens": 119007197,
-    "total_billed": 52370310,
-    "total_input": 51600380,
-    "total_output": 769930,
-    "cache_hit_pct": 54.24
+    "total_tokens": 144330459,
+    "total_billed": 65399812,
+    "total_input": 64589925,
+    "total_output": 809887,
+    "cache_hit_pct": 53.25
   },
   "vibe_scorecard": {
-    "total_messages": 969,
-    "total_tool_calls": 992,
-    "longest_streak": 12,
+    "total_messages": 1025,
+    "total_tool_calls": 1107,
+    "longest_streak": 13,
     "longest_session_hours": 0.0,
     "peak_hour": 12,
     "personality": "Vibe Explorer",
-    "vibe_power": 35218
+    "vibe_power": 37872
   },
   "badges": [
     {
@@ -1192,15 +1192,15 @@
     },
     {
       "date": "2026-05-22",
-      "active_minutes": 36.12,
-      "events": 541,
-      "sessions": 3
+      "active_minutes": 79.18,
+      "events": 1104,
+      "sessions": 8
     },
     {
       "date": "2026-05-23",
-      "active_minutes": 0.0,
-      "events": 0,
-      "sessions": 0
+      "active_minutes": 32.62,
+      "events": 396,
+      "sessions": 2
     },
     {
       "date": "2026-05-24",
@@ -2535,5 +2535,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-05-22T09:00:00.909654+00:00"
+  "generated_at": "2026-05-23T09:00:01.033060+00:00"
 }
