@@ -3,11 +3,11 @@
   "year": 2026,
   "intensity_mode": "sessions",
   "summary": {
-    "active_minutes": 2379,
-    "active_days": 31,
-    "sessions": 7233,
-    "events": 16690,
-    "avg_minutes_per_active_day": 76.75,
+    "active_minutes": 2548,
+    "active_days": 32,
+    "sessions": 7268,
+    "events": 18000,
+    "avg_minutes_per_active_day": 79.63,
     "max_day_minutes": 230.65
   },
   "tool_stats": {
@@ -16,10 +16,10 @@
         "source": "copilot",
         "label": "GitHub Copilot",
         "color": "#10b981",
-        "active_minutes": 1383.77,
-        "sessions": 6920,
-        "events": 6920,
-        "percent": 57.29,
+        "active_minutes": 1387.77,
+        "sessions": 6921,
+        "events": 6921,
+        "percent": 53.27,
         "sparkline": [
           0,
           0,
@@ -41,7 +41,7 @@
           40,
           223,
           2635,
-          0,
+          1,
           0,
           0,
           0,
@@ -80,10 +80,10 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 637.93,
-        "sessions": 281,
-        "events": 8879,
-        "percent": 26.41,
+        "active_minutes": 753.05,
+        "sessions": 311,
+        "events": 9867,
+        "percent": 28.91,
         "sparkline": [
           0,
           0,
@@ -105,7 +105,7 @@
           2872,
           877,
           676,
-          3196,
+          4184,
           0,
           0,
           0,
@@ -144,10 +144,10 @@
         "source": "claude",
         "label": "Claude",
         "color": "#d97757",
-        "active_minutes": 393.73,
-        "sessions": 32,
-        "events": 891,
-        "percent": 16.3,
+        "active_minutes": 464.33,
+        "sessions": 36,
+        "events": 1212,
+        "percent": 17.82,
         "sparkline": [
           0,
           0,
@@ -169,7 +169,7 @@
           15,
           588,
           288,
-          0,
+          321,
           0,
           0,
           0,
@@ -210,76 +210,76 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 294.13,
-        "sessions": 31,
-        "events": 3550,
-        "percent": 49.21,
+        "active_minutes": 409.24,
+        "sessions": 61,
+        "events": 4538,
+        "percent": 74.9,
         "sparkline": [
-          0,
           70,
           284,
           277,
           1104,
           1398,
-          417
-        ]
-      },
-      {
-        "source": "copilot",
-        "label": "GitHub Copilot",
-        "color": "#10b981",
-        "active_minutes": 226.63,
-        "sessions": 1256,
-        "events": 1256,
-        "percent": 37.91,
-        "sparkline": [
-          1187,
-          69,
-          0,
-          0,
-          0,
-          0,
-          0
+          692,
+          713
         ]
       },
       {
         "source": "claude",
         "label": "Claude",
         "color": "#d97757",
-        "active_minutes": 76.98,
+        "active_minutes": 126.6,
         "sessions": 5,
-        "events": 216,
-        "percent": 12.88,
+        "events": 481,
+        "percent": 23.17,
         "sparkline": [
-          56,
           160,
           0,
           0,
           0,
           0,
+          60,
+          261
+        ]
+      },
+      {
+        "source": "copilot",
+        "label": "GitHub Copilot",
+        "color": "#10b981",
+        "active_minutes": 10.54,
+        "sessions": 70,
+        "events": 70,
+        "percent": 1.93,
+        "sparkline": [
+          69,
+          0,
+          0,
+          0,
+          0,
+          1,
           0
         ]
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-05-18",
-    "recent_end": "2026-05-24"
+    "recent_start": "2026-05-19",
+    "recent_end": "2026-05-25"
   },
   "token_stats": {
-    "total_tokens": 177453702,
-    "total_billed": 83571119,
-    "total_input": 82672194,
-    "total_output": 898925,
-    "cache_hit_pct": 51.76
+    "total_tokens": 191358778,
+    "total_billed": 88687062,
+    "total_input": 87614541,
+    "total_output": 1072521,
+    "cache_hit_pct": 52.54
   },
   "vibe_scorecard": {
-    "total_messages": 1114,
-    "total_tool_calls": 1254,
-    "longest_streak": 14,
+    "total_messages": 1458,
+    "total_tool_calls": 1453,
+    "longest_streak": 15,
     "longest_session_hours": 0.0,
     "peak_hour": 12,
     "personality": "Vibe Explorer",
-    "vibe_power": 41372
+    "vibe_power": 43086
   },
   "badges": [
     {
@@ -1204,15 +1204,15 @@
     },
     {
       "date": "2026-05-24",
-      "active_minutes": 31.16,
-      "events": 417,
-      "sessions": 5
+      "active_minutes": 83.7,
+      "events": 753,
+      "sessions": 14
     },
     {
       "date": "2026-05-25",
-      "active_minutes": 0.0,
-      "events": 0,
-      "sessions": 0
+      "active_minutes": 116.4,
+      "events": 974,
+      "sessions": 26
     },
     {
       "date": "2026-05-26",
@@ -2535,5 +2535,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-05-24T09:00:00.755930+00:00"
+  "generated_at": "2026-05-25T09:00:00.957906+00:00"
 }
