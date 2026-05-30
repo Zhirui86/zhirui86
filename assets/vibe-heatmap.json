@@ -3,11 +3,11 @@
   "year": 2026,
   "intensity_mode": "sessions",
   "summary": {
-    "active_minutes": 3075,
+    "active_minutes": 3131,
     "active_days": 36,
-    "sessions": 7283,
-    "events": 22256,
-    "avg_minutes_per_active_day": 85.43,
+    "sessions": 7286,
+    "events": 22534,
+    "avg_minutes_per_active_day": 86.98,
     "max_day_minutes": 280.37
   },
   "tool_stats": {
@@ -19,7 +19,7 @@
         "active_minutes": 1387.77,
         "sessions": 6921,
         "events": 6921,
-        "percent": 44.31,
+        "percent": 43.46,
         "sparkline": [
           0,
           0,
@@ -80,10 +80,10 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 1270.89,
-        "sessions": 324,
-        "events": 13970,
-        "percent": 40.57,
+        "active_minutes": 1304.57,
+        "sessions": 326,
+        "events": 14203,
+        "percent": 40.86,
         "sparkline": [
           0,
           0,
@@ -106,7 +106,7 @@
           877,
           676,
           5595,
-          2692,
+          2925,
           0,
           0,
           0,
@@ -144,10 +144,10 @@
         "source": "claude",
         "label": "Claude",
         "color": "#d97757",
-        "active_minutes": 473.59,
-        "sessions": 38,
-        "events": 1365,
-        "percent": 15.12,
+        "active_minutes": 500.73,
+        "sessions": 39,
+        "events": 1410,
+        "percent": 15.68,
         "sparkline": [
           0,
           0,
@@ -170,7 +170,7 @@
           588,
           288,
           474,
-          0,
+          45,
           0,
           0,
           0,
@@ -210,35 +210,35 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 804.6,
-        "sessions": 57,
-        "events": 6906,
-        "percent": 90.56,
+        "active_minutes": 697.8,
+        "sessions": 50,
+        "events": 5741,
+        "percent": 86.28,
         "sparkline": [
-          1398,
           692,
           786,
           665,
           673,
           2572,
-          120
+          353,
+          0
         ]
       },
       {
         "source": "claude",
         "label": "Claude",
         "color": "#d97757",
-        "active_minutes": 79.86,
-        "sessions": 6,
-        "events": 474,
-        "percent": 8.99,
+        "active_minutes": 107.0,
+        "sessions": 7,
+        "events": 519,
+        "percent": 13.23,
         "sparkline": [
-          0,
           60,
           261,
           153,
           0,
           0,
+          45,
           0
         ]
       },
@@ -249,10 +249,10 @@
         "active_minutes": 4.0,
         "sessions": 1,
         "events": 1,
-        "percent": 0.45,
+        "percent": 0.49,
         "sparkline": [
-          0,
           1,
+          0,
           0,
           0,
           0,
@@ -262,24 +262,24 @@
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-05-23",
-    "recent_end": "2026-05-29"
+    "recent_start": "2026-05-24",
+    "recent_end": "2026-05-30"
   },
   "token_stats": {
-    "total_tokens": 339735123,
-    "total_billed": 164417277,
-    "total_input": 163005417,
-    "total_output": 1411860,
-    "cache_hit_pct": 50.99
+    "total_tokens": 345261926,
+    "total_billed": 167221520,
+    "total_input": 165788926,
+    "total_output": 1432594,
+    "cache_hit_pct": 50.96
   },
   "vibe_scorecard": {
-    "total_messages": 1716,
-    "total_tool_calls": 2166,
+    "total_messages": 1762,
+    "total_tool_calls": 2221,
     "longest_streak": 19,
     "longest_session_hours": 0.0,
     "peak_hour": 12,
     "personality": "Vibe Explorer",
-    "vibe_power": 58614
+    "vibe_power": 59236
   },
   "badges": [
     {
@@ -1234,9 +1234,9 @@
     },
     {
       "date": "2026-05-29",
-      "active_minutes": 35.45,
-      "events": 120,
-      "sessions": 2
+      "active_minutes": 91.42,
+      "events": 398,
+      "sessions": 5
     },
     {
       "date": "2026-05-30",
@@ -2535,5 +2535,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-05-29T09:00:01.707131+00:00"
+  "generated_at": "2026-05-30T09:00:01.430841+00:00"
 }
