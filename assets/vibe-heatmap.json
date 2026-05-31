@@ -210,17 +210,17 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 697.8,
-        "sessions": 50,
-        "events": 5741,
-        "percent": 86.28,
+        "active_minutes": 631.15,
+        "sessions": 39,
+        "events": 5049,
+        "percent": 87.66,
         "sparkline": [
-          692,
           786,
           665,
           673,
           2572,
           353,
+          0,
           0
         ]
       },
@@ -228,42 +228,24 @@
         "source": "claude",
         "label": "Claude",
         "color": "#d97757",
-        "active_minutes": 107.0,
-        "sessions": 7,
-        "events": 519,
-        "percent": 13.23,
+        "active_minutes": 88.82,
+        "sessions": 5,
+        "events": 459,
+        "percent": 12.34,
         "sparkline": [
-          60,
           261,
           153,
           0,
           0,
           45,
-          0
-        ]
-      },
-      {
-        "source": "copilot",
-        "label": "GitHub Copilot",
-        "color": "#10b981",
-        "active_minutes": 4.0,
-        "sessions": 1,
-        "events": 1,
-        "percent": 0.49,
-        "sparkline": [
-          1,
-          0,
-          0,
-          0,
-          0,
           0,
           0
         ]
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-05-24",
-    "recent_end": "2026-05-30"
+    "recent_start": "2026-05-25",
+    "recent_end": "2026-05-31"
   },
   "token_stats": {
     "total_tokens": 345261926,
@@ -2535,5 +2517,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-05-30T09:00:01.430841+00:00"
+  "generated_at": "2026-05-31T09:00:01.127442+00:00"
 }
