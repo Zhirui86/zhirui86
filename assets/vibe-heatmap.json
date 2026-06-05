@@ -207,45 +207,45 @@
     ],
     "recent": [
       {
-        "source": "codex",
-        "label": "Codex",
-        "color": "#3b82f6",
-        "active_minutes": 148.36,
-        "sessions": 19,
-        "events": 1054,
-        "percent": 57.68,
-        "sparkline": [
-          353,
-          0,
-          0,
-          452,
-          0,
-          0,
-          249
-        ]
-      },
-      {
         "source": "claude",
         "label": "Claude",
         "color": "#d97757",
-        "active_minutes": 108.87,
-        "sessions": 4,
-        "events": 384,
-        "percent": 42.32,
+        "active_minutes": 81.73,
+        "sessions": 3,
+        "events": 339,
+        "percent": 50.78,
         "sparkline": [
-          45,
           0,
           0,
           305,
           34,
           0,
+          0,
+          0
+        ]
+      },
+      {
+        "source": "codex",
+        "label": "Codex",
+        "color": "#3b82f6",
+        "active_minutes": 79.23,
+        "sessions": 15,
+        "events": 701,
+        "percent": 49.22,
+        "sparkline": [
+          0,
+          0,
+          452,
+          0,
+          0,
+          249,
           0
         ]
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-05-29",
-    "recent_end": "2026-06-04"
+    "recent_start": "2026-05-30",
+    "recent_end": "2026-06-05"
   },
   "token_stats": {
     "total_tokens": 351141360,
@@ -2517,5 +2517,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-06-04T09:00:01.468380+00:00"
+  "generated_at": "2026-06-05T09:00:01.149823+00:00"
 }
