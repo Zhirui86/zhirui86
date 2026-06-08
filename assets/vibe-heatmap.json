@@ -207,17 +207,17 @@
     ],
     "recent": [
       {
-        "source": "claude",
-        "label": "Claude",
-        "color": "#d97757",
-        "active_minutes": 81.73,
-        "sessions": 3,
-        "events": 339,
-        "percent": 50.78,
+        "source": "codex",
+        "label": "Codex",
+        "color": "#3b82f6",
+        "active_minutes": 21.03,
+        "sessions": 5,
+        "events": 249,
+        "percent": 52.05,
         "sparkline": [
-          305,
-          34,
           0,
+          0,
+          249,
           0,
           0,
           0,
@@ -225,18 +225,18 @@
         ]
       },
       {
-        "source": "codex",
-        "label": "Codex",
-        "color": "#3b82f6",
-        "active_minutes": 79.23,
-        "sessions": 15,
-        "events": 701,
-        "percent": 49.22,
+        "source": "claude",
+        "label": "Claude",
+        "color": "#d97757",
+        "active_minutes": 19.37,
+        "sessions": 2,
+        "events": 34,
+        "percent": 47.95,
         "sparkline": [
-          452,
+          34,
           0,
           0,
-          249,
+          0,
           0,
           0,
           0
@@ -244,8 +244,8 @@
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-06-01",
-    "recent_end": "2026-06-07"
+    "recent_start": "2026-06-02",
+    "recent_end": "2026-06-08"
   },
   "token_stats": {
     "total_tokens": 351141360,
@@ -2517,5 +2517,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-06-07T09:00:01.694748+00:00"
+  "generated_at": "2026-06-08T09:00:01.697730+00:00"
 }
