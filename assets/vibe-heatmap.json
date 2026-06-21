@@ -215,10 +215,10 @@
         "events": 8047,
         "percent": 97.09,
         "sparkline": [
-          0,
           6345,
           1298,
           404,
+          0,
           0,
           0,
           0
@@ -233,8 +233,8 @@
         "events": 169,
         "percent": 2.91,
         "sparkline": [
-          0,
           169,
+          0,
           0,
           0,
           0,
@@ -244,8 +244,8 @@
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-06-14",
-    "recent_end": "2026-06-20"
+    "recent_start": "2026-06-15",
+    "recent_end": "2026-06-21"
   },
   "token_stats": {
     "total_tokens": 717458670,
@@ -2517,5 +2517,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-06-20T09:00:01.927711+00:00"
+  "generated_at": "2026-06-21T09:00:01.679875+00:00"
 }
