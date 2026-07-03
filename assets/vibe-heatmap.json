@@ -210,24 +210,24 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 144.52,
-        "sessions": 365,
-        "events": 1031,
+        "active_minutes": 70.91,
+        "sessions": 198,
+        "events": 504,
         "percent": 100.0,
         "sparkline": [
-          527,
           410,
           28,
           21,
           0,
           45,
+          0,
           0
         ]
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-06-26",
-    "recent_end": "2026-07-02"
+    "recent_start": "2026-06-27",
+    "recent_end": "2026-07-03"
   },
   "token_stats": {
     "total_tokens": 730475688,
@@ -2499,5 +2499,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-07-02T09:00:01.726895+00:00"
+  "generated_at": "2026-07-03T09:00:01.916796+00:00"
 }
