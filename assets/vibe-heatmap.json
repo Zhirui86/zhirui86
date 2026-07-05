@@ -3,11 +3,11 @@
   "year": 2026,
   "intensity_mode": "sessions",
   "summary": {
-    "active_minutes": 4065,
+    "active_minutes": 4098,
     "active_days": 51,
-    "sessions": 8042,
-    "events": 35237,
-    "avg_minutes_per_active_day": 79.71,
+    "sessions": 8141,
+    "events": 35524,
+    "avg_minutes_per_active_day": 80.36,
     "max_day_minutes": 524.21
   },
   "tool_stats": {
@@ -16,10 +16,10 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 2645.43,
-        "sessions": 950,
-        "events": 28113,
-        "percent": 64.94,
+        "active_minutes": 2697.64,
+        "sessions": 1051,
+        "events": 28434,
+        "percent": 65.69,
         "sparkline": [
           0,
           0,
@@ -47,7 +47,7 @@
           8850,
           491,
           1031,
-          0,
+          321,
           0,
           0,
           0,
@@ -83,7 +83,7 @@
         "active_minutes": 1408.69,
         "sessions": 7090,
         "events": 7090,
-        "percent": 34.58,
+        "percent": 34.31,
         "sparkline": [
           0,
           0,
@@ -139,70 +139,6 @@
           0,
           0
         ]
-      },
-      {
-        "source": "claude",
-        "label": "Claude",
-        "color": "#d97757",
-        "active_minutes": 19.37,
-        "sessions": 2,
-        "events": 34,
-        "percent": 0.48,
-        "sparkline": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          34,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
       }
     ],
     "recent": [
@@ -210,40 +146,40 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 24.85,
-        "sessions": 21,
-        "events": 94,
+        "active_minutes": 66.41,
+        "sessions": 118,
+        "events": 387,
         "percent": 100.0,
         "sparkline": [
-          28,
           21,
           0,
           45,
           0,
           0,
-          0
+          0,
+          321
         ]
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-06-28",
-    "recent_end": "2026-07-04"
+    "recent_start": "2026-06-29",
+    "recent_end": "2026-07-05"
   },
   "token_stats": {
-    "total_tokens": 730475688,
-    "total_billed": 379016744,
-    "total_input": 376852389,
-    "total_output": 2164355,
-    "cache_hit_pct": 48.26
+    "total_tokens": 734264393,
+    "total_billed": 381107529,
+    "total_input": 378928680,
+    "total_output": 2178849,
+    "cache_hit_pct": 48.24
   },
   "vibe_scorecard": {
-    "total_messages": 904,
-    "total_tool_calls": 4250,
+    "total_messages": 889,
+    "total_tool_calls": 4300,
     "longest_streak": 19,
     "longest_session_hours": 0.0,
     "peak_hour": 12,
     "personality": "Vibe Explorer",
-    "vibe_power": 101421
+    "vibe_power": 102137
   },
   "badges": [
     {
@@ -299,7 +235,7 @@
     {
       "id": "multi_tool",
       "name": "Multi-Tool",
-      "earned": true
+      "earned": false
     },
     {
       "id": "night_owl",
@@ -1222,9 +1158,9 @@
     },
     {
       "date": "2026-06-02",
-      "active_minutes": 19.37,
-      "events": 34,
-      "sessions": 2
+      "active_minutes": 0.0,
+      "events": 0,
+      "sessions": 0
     },
     {
       "date": "2026-06-03",
@@ -1420,9 +1356,9 @@
     },
     {
       "date": "2026-07-05",
-      "active_minutes": 0.0,
-      "events": 0,
-      "sessions": 0
+      "active_minutes": 52.22,
+      "events": 321,
+      "sessions": 101
     },
     {
       "date": "2026-07-06",
@@ -2499,5 +2435,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-07-04T09:00:02.090794+00:00"
+  "generated_at": "2026-07-05T09:00:01.921311+00:00"
 }
