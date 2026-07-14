@@ -155,15 +155,15 @@
           0,
           0,
           0,
-          0,
           77,
+          0,
           0
         ]
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-07-07",
-    "recent_end": "2026-07-13"
+    "recent_start": "2026-07-08",
+    "recent_end": "2026-07-14"
   },
   "token_stats": {
     "total_tokens": 752956411,
@@ -2435,5 +2435,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-07-13T09:00:02.357648+00:00"
+  "generated_at": "2026-07-14T09:00:02.161130+00:00"
 }
