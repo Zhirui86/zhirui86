@@ -22,13 +22,13 @@
 
 <sub>Yearly heatmap & tool usage (auto-published)</sub>
 
-![AI coding activity heatmap](./assets/vibe-heatmap.svg?v=20260714090000)
+![AI coding activity heatmap](./assets/vibe-heatmap.svg?v=20260715090000)
 
 <p align="center">
-  <img src="./assets/vibe-tools.svg?v=20260714090000" alt="Vibe Tool Mix" width="49%">
-  <img src="./assets/vibe-tools-recent.svg?v=20260714090000" alt="Last 7 Days" width="49%">
+  <img src="./assets/vibe-tools.svg?v=20260715090000" alt="Vibe Tool Mix" width="49%">
+  <img src="./assets/vibe-tools-recent.svg?v=20260715090000" alt="Last 7 Days" width="49%">
 </p>
 
-<sub>Auto-published · Last refreshed: 2026-07-14 09:00 UTC</sub>
+<sub>Auto-published · Last refreshed: 2026-07-15 09:00 UTC</sub>
 
 <!-- vibe-heatmap:end -->
