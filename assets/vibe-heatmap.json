@@ -152,8 +152,8 @@
         "percent": 100.0,
         "sparkline": [
           0,
-          0,
           77,
+          0,
           0,
           0,
           0,
@@ -162,8 +162,8 @@
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-07-10",
-    "recent_end": "2026-07-16"
+    "recent_start": "2026-07-11",
+    "recent_end": "2026-07-17"
   },
   "token_stats": {
     "total_tokens": 752956411,
@@ -2435,5 +2435,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-07-16T09:00:01.782814+00:00"
+  "generated_at": "2026-07-17T09:00:01.572877+00:00"
 }
