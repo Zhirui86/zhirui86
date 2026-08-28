@@ -153,17 +153,17 @@
         "sparkline": [
           0,
           0,
-          0,
           450,
           178,
+          0,
           0,
           0
         ]
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-08-21",
-    "recent_end": "2026-08-27"
+    "recent_start": "2026-08-22",
+    "recent_end": "2026-08-28"
   },
   "token_stats": {
     "total_tokens": 764908492,
@@ -2435,5 +2435,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-08-27T09:00:01.515767+00:00"
+  "generated_at": "2026-08-28T09:00:01.809852+00:00"
 }
