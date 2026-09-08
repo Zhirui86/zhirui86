@@ -143,8 +143,8 @@
     ],
     "recent": [],
     "recent_days": 7,
-    "recent_start": "2026-09-01",
-    "recent_end": "2026-09-07"
+    "recent_start": "2026-09-02",
+    "recent_end": "2026-09-08"
   },
   "token_stats": {
     "total_tokens": 764908492,
@@ -2416,5 +2416,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-09-07T09:00:02.255092+00:00"
+  "generated_at": "2026-09-08T09:00:02.174200+00:00"
 }
