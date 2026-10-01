@@ -3,12 +3,12 @@
   "year": 2026,
   "intensity_mode": "sessions",
   "summary": {
-    "active_minutes": 4345,
-    "active_days": 55,
-    "sessions": 8867,
-    "events": 37026,
-    "avg_minutes_per_active_day": 79.0,
-    "max_day_minutes": 524.21
+    "active_minutes": 4483,
+    "active_days": 56,
+    "sessions": 9956,
+    "events": 37731,
+    "avg_minutes_per_active_day": 80.05,
+    "max_day_minutes": 494.17
   },
   "tool_stats": {
     "overall": [
@@ -16,10 +16,10 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 2944.38,
-        "sessions": 1777,
-        "events": 29936,
-        "percent": 67.64,
+        "active_minutes": 3078.74,
+        "sessions": 2866,
+        "events": 30641,
+        "percent": 68.61,
         "sparkline": [
           0,
           0,
@@ -35,32 +35,32 @@
           0,
           0,
           0,
-          9,
+          8,
           0,
-          1211,
-          2872,
-          877,
+          1089,
+          2508,
+          852,
           676,
-          5595,
-          3377,
-          3086,
-          8850,
-          491,
-          1031,
-          1118,
-          77,
+          5315,
+          3148,
+          2862,
+          8241,
+          489,
+          929,
+          1084,
+          76,
           0,
           0,
           0,
           0,
           0,
-          628,
+          604,
           0,
           0,
           0,
           0,
           0,
-          0,
+          2722,
           0,
           0,
           0,
@@ -83,7 +83,7 @@
         "active_minutes": 1408.69,
         "sessions": 7090,
         "events": 7090,
-        "percent": 32.36,
+        "percent": 31.39,
         "sparkline": [
           0,
           0,
@@ -141,26 +141,45 @@
         ]
       }
     ],
-    "recent": [],
+    "recent": [
+      {
+        "source": "codex",
+        "label": "Codex",
+        "color": "#3b82f6",
+        "active_minutes": 236.55,
+        "sessions": 1318,
+        "events": 2722,
+        "percent": 100.0,
+        "sparkline": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2722
+        ]
+      }
+    ],
     "recent_days": 7,
-    "recent_start": "2026-09-24",
-    "recent_end": "2026-09-30"
+    "recent_start": "2026-09-25",
+    "recent_end": "2026-10-01"
   },
   "token_stats": {
-    "total_tokens": 764908492,
-    "total_billed": 398047948,
-    "total_input": 395734446,
-    "total_output": 2313502,
-    "cache_hit_pct": 48.11
+    "total_tokens": 830813208,
+    "total_billed": 433890546,
+    "total_input": 431279128,
+    "total_output": 2611418,
+    "cache_hit_pct": 47.93
   },
   "vibe_scorecard": {
-    "total_messages": 935,
-    "total_tool_calls": 4556,
+    "total_messages": 0,
+    "total_tool_calls": 4341,
     "longest_streak": 19,
     "longest_session_hours": 0.0,
     "peak_hour": 12,
     "personality": "Vibe Explorer",
-    "vibe_power": 107635
+    "vibe_power": 117361
   },
   "badges": [
     {
@@ -846,7 +865,7 @@
     {
       "date": "2026-04-14",
       "active_minutes": 181.69,
-      "events": 681,
+      "events": 680,
       "sessions": 674
     },
     {
@@ -936,20 +955,20 @@
     {
       "date": "2026-04-29",
       "active_minutes": 112.17,
-      "events": 1890,
-      "sessions": 745
+      "events": 1768,
+      "sessions": 685
     },
     {
       "date": "2026-04-30",
-      "active_minutes": 78.19,
-      "events": 1941,
-      "sessions": 122
+      "active_minutes": 67.37,
+      "events": 1685,
+      "sessions": 44
     },
     {
       "date": "2026-05-01",
       "active_minutes": 28.65,
-      "events": 971,
-      "sessions": 60
+      "events": 863,
+      "sessions": 6
     },
     {
       "date": "2026-05-02",
@@ -990,7 +1009,7 @@
     {
       "date": "2026-05-08",
       "active_minutes": 45.39,
-      "events": 192,
+      "events": 191,
       "sessions": 14
     },
     {
@@ -1008,7 +1027,7 @@
     {
       "date": "2026-05-11",
       "active_minutes": 57.92,
-      "events": 475,
+      "events": 451,
       "sessions": 231
     },
     {
@@ -1079,44 +1098,44 @@
     },
     {
       "date": "2026-05-23",
-      "active_minutes": 140.48,
-      "events": 1398,
+      "active_minutes": 138.44,
+      "events": 1274,
       "sessions": 9
     },
     {
       "date": "2026-05-24",
-      "active_minutes": 70.64,
-      "events": 693,
-      "sessions": 12
+      "active_minutes": 66.49,
+      "events": 656,
+      "sessions": 13
     },
     {
       "date": "2026-05-25",
-      "active_minutes": 89.87,
-      "events": 786,
+      "active_minutes": 89.5,
+      "events": 734,
       "sessions": 26
     },
     {
       "date": "2026-05-26",
-      "active_minutes": 86.35,
-      "events": 665,
+      "active_minutes": 84.52,
+      "events": 635,
       "sessions": 4
     },
     {
       "date": "2026-05-27",
-      "active_minutes": 105.44,
-      "events": 673,
+      "active_minutes": 104.47,
+      "events": 636,
       "sessions": 2
     },
     {
       "date": "2026-05-28",
-      "active_minutes": 280.37,
-      "events": 2572,
-      "sessions": 3
+      "active_minutes": 257.16,
+      "events": 2354,
+      "sessions": 4
     },
     {
       "date": "2026-05-29",
-      "active_minutes": 69.13,
-      "events": 353,
+      "active_minutes": 68.9,
+      "events": 344,
       "sessions": 4
     },
     {
@@ -1134,7 +1153,7 @@
     {
       "date": "2026-06-01",
       "active_minutes": 58.2,
-      "events": 452,
+      "events": 450,
       "sessions": 10
     },
     {
@@ -1176,26 +1195,26 @@
     {
       "date": "2026-06-08",
       "active_minutes": 91.03,
-      "events": 1164,
-      "sessions": 5
+      "events": 1162,
+      "sessions": 4
     },
     {
       "date": "2026-06-09",
-      "active_minutes": 201.17,
-      "events": 1575,
+      "active_minutes": 190.67,
+      "events": 1376,
       "sessions": 2
     },
     {
       "date": "2026-06-10",
       "active_minutes": 12.21,
-      "events": 98,
-      "sessions": 2
+      "events": 75,
+      "sessions": 1
     },
     {
       "date": "2026-06-11",
-      "active_minutes": 99.33,
-      "events": 1425,
-      "sessions": 4
+      "active_minutes": 98.56,
+      "events": 1371,
+      "sessions": 2
     },
     {
       "date": "2026-06-12",
@@ -1217,15 +1236,15 @@
     },
     {
       "date": "2026-06-15",
-      "active_minutes": 524.21,
-      "events": 6514,
-      "sessions": 187
+      "active_minutes": 494.17,
+      "events": 6027,
+      "sessions": 182
     },
     {
       "date": "2026-06-16",
-      "active_minutes": 132.77,
-      "events": 1004,
-      "sessions": 8
+      "active_minutes": 125.53,
+      "events": 936,
+      "sessions": 5
     },
     {
       "date": "2026-06-17",
@@ -1260,14 +1279,14 @@
     {
       "date": "2026-06-22",
       "active_minutes": 57.0,
-      "events": 444,
-      "sessions": 182
+      "events": 443,
+      "sessions": 181
     },
     {
       "date": "2026-06-23",
       "active_minutes": 7.57,
-      "events": 47,
-      "sessions": 22
+      "events": 46,
+      "sessions": 21
     },
     {
       "date": "2026-06-24",
@@ -1283,27 +1302,27 @@
     },
     {
       "date": "2026-06-26",
-      "active_minutes": 73.62,
-      "events": 527,
-      "sessions": 167
+      "active_minutes": 68.05,
+      "events": 452,
+      "sessions": 155
     },
     {
       "date": "2026-06-27",
       "active_minutes": 46.06,
-      "events": 410,
-      "sessions": 177
+      "events": 406,
+      "sessions": 175
     },
     {
       "date": "2026-06-28",
-      "active_minutes": 10.65,
-      "events": 28,
-      "sessions": 4
+      "active_minutes": 9.92,
+      "events": 17,
+      "sessions": 3
     },
     {
       "date": "2026-06-29",
       "active_minutes": 4.67,
-      "events": 21,
-      "sessions": 8
+      "events": 20,
+      "sessions": 7
     },
     {
       "date": "2026-06-30",
@@ -1314,7 +1333,7 @@
     {
       "date": "2026-07-01",
       "active_minutes": 9.53,
-      "events": 45,
+      "events": 34,
       "sessions": 9
     },
     {
@@ -1338,14 +1357,14 @@
     {
       "date": "2026-07-05",
       "active_minutes": 52.22,
-      "events": 321,
+      "events": 312,
       "sessions": 101
     },
     {
       "date": "2026-07-06",
       "active_minutes": 141.36,
-      "events": 797,
-      "sessions": 290
+      "events": 772,
+      "sessions": 288
     },
     {
       "date": "2026-07-07",
@@ -1380,7 +1399,7 @@
     {
       "date": "2026-07-12",
       "active_minutes": 18.15,
-      "events": 77,
+      "events": 76,
       "sessions": 27
     },
     {
@@ -1638,14 +1657,14 @@
     {
       "date": "2026-08-24",
       "active_minutes": 48.43,
-      "events": 450,
-      "sessions": 284
+      "events": 430,
+      "sessions": 279
     },
     {
       "date": "2026-08-25",
       "active_minutes": 38.79,
-      "events": 178,
-      "sessions": 125
+      "events": 174,
+      "sessions": 123
     },
     {
       "date": "2026-08-26",
@@ -1865,9 +1884,9 @@
     },
     {
       "date": "2026-10-01",
-      "active_minutes": 0.0,
-      "events": 0,
-      "sessions": 0
+      "active_minutes": 236.55,
+      "events": 2722,
+      "sessions": 1318
     },
     {
       "date": "2026-10-02",
@@ -2416,5 +2435,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-09-30T09:00:02.258836+00:00"
+  "generated_at": "2026-10-01T09:00:01.963736+00:00"
 }
