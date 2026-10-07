@@ -151,19 +151,19 @@
         "events": 18296,
         "percent": 100.0,
         "sparkline": [
-          0,
           7066,
           2270,
           7148,
           1131,
           681,
+          0,
           0
         ]
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-09-30",
-    "recent_end": "2026-10-06"
+    "recent_start": "2026-10-01",
+    "recent_end": "2026-10-07"
   },
   "token_stats": {
     "total_tokens": 1240397742,
@@ -2435,5 +2435,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-10-06T09:00:02.603990+00:00"
+  "generated_at": "2026-10-07T09:00:03.099330+00:00"
 }
