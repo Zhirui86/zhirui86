@@ -3,11 +3,11 @@
   "year": 2026,
   "intensity_mode": "sessions",
   "summary": {
-    "active_minutes": 6580,
-    "active_days": 67,
-    "sessions": 22587,
-    "events": 70207,
-    "avg_minutes_per_active_day": 98.21,
+    "active_minutes": 6885,
+    "active_days": 68,
+    "sessions": 26912,
+    "events": 80583,
+    "avg_minutes_per_active_day": 101.25,
     "max_day_minutes": 494.17
   },
   "tool_stats": {
@@ -16,10 +16,10 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 5175.6,
-        "sessions": 15497,
-        "events": 63117,
-        "percent": 78.61,
+        "active_minutes": 5480.73,
+        "sessions": 19822,
+        "events": 73493,
+        "percent": 79.55,
         "sparkline": [
           0,
           0,
@@ -62,7 +62,7 @@
           0,
           22991,
           5328,
-          6879,
+          17255,
           0,
           0,
           0,
@@ -83,7 +83,7 @@
         "active_minutes": 1408.69,
         "sessions": 7090,
         "events": 7090,
-        "percent": 21.39,
+        "percent": 20.45,
         "sparkline": [
           0,
           0,
@@ -146,40 +146,40 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 714.21,
-        "sessions": 4273,
-        "events": 11035,
+        "active_minutes": 1019.34,
+        "sessions": 8598,
+        "events": 21411,
         "percent": 100.0,
         "sparkline": [
-          0,
           0,
           758,
           3352,
           46,
           2999,
-          3880
+          12417,
+          1839
         ]
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-10-10",
-    "recent_end": "2026-10-16"
+    "recent_start": "2026-10-11",
+    "recent_end": "2026-10-17"
   },
   "token_stats": {
-    "total_tokens": 1669824625,
-    "total_billed": 864454987,
-    "total_input": 857040779,
-    "total_output": 7414208,
-    "cache_hit_pct": 48.45
+    "total_tokens": 2040644515,
+    "total_billed": 1051587325,
+    "total_input": 1043285192,
+    "total_output": 8302133,
+    "cache_hit_pct": 48.67
   },
   "vibe_scorecard": {
     "total_messages": 0,
-    "total_tool_calls": 4398,
+    "total_tool_calls": 4467,
     "longest_streak": 19,
     "longest_session_hours": 0.0,
     "peak_hour": 12,
     "personality": "Vibe Explorer",
-    "vibe_power": 240232
+    "vibe_power": 290476
   },
   "badges": [
     {
@@ -1974,15 +1974,15 @@
     },
     {
       "date": "2026-10-16",
-      "active_minutes": 137.46,
-      "events": 3880,
-      "sessions": 1576
+      "active_minutes": 339.78,
+      "events": 12417,
+      "sessions": 5169
     },
     {
       "date": "2026-10-17",
-      "active_minutes": 0.0,
-      "events": 0,
-      "sessions": 0
+      "active_minutes": 102.81,
+      "events": 1839,
+      "sessions": 732
     },
     {
       "date": "2026-10-18",
@@ -2435,5 +2435,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-10-16T09:00:04.346384+00:00"
+  "generated_at": "2026-10-17T09:00:04.555456+00:00"
 }
