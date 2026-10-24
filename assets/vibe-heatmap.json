@@ -141,29 +141,10 @@
         ]
       }
     ],
-    "recent": [
-      {
-        "source": "codex",
-        "label": "Codex",
-        "color": "#3b82f6",
-        "active_minutes": 102.81,
-        "sessions": 732,
-        "events": 1839,
-        "percent": 100.0,
-        "sparkline": [
-          1839,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
-    ],
+    "recent": [],
     "recent_days": 7,
-    "recent_start": "2026-10-17",
-    "recent_end": "2026-10-23"
+    "recent_start": "2026-10-18",
+    "recent_end": "2026-10-24"
   },
   "token_stats": {
     "total_tokens": 2040644515,
@@ -2435,5 +2416,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-10-23T09:00:04.284827+00:00"
+  "generated_at": "2026-10-24T09:00:05.054105+00:00"
 }
